@@ -1,0 +1,28 @@
+#############################
+RELEASE NOTE of 3C-analyzer
+
+tyuan@mcw.edu
+
+
+
+#############################
+version 1.1beta, 2014.11
+#############################
+1.Data analysis for HiC is involved. 
+2.fix synthetic problems of refreshing sample log files when multi-threading
+3.GUIs decoration
+
+
+#############################
+version 1.0, 2014.09
+#############################
+1.Capture-C data analysis
+2.4C-seq data analysis
+3.Tscore algorithm involved.
+
+
+#############################
+version 0.9, 2013.12-2014.04
+#############################
+1.3C-MTS analysis
+2.parallel processing with multi-threading
